@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SOngkir/.github/main/assets/logo.png" alt="SOngkir Logo" width="180" height="180">
+  <img src="https://raw.githubusercontent.com/SOngkir/.github/master/assets/logo.png" alt="SOngkir Logo" width="180" height="180">
 </p>
 
 <h1 align="center">SOngkir</h1>
